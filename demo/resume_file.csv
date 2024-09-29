@@ -1,0 +1,1666 @@
+,Resume,ID
+0,"Pursuing a minor degree in the Department of Industrial Engineering and Operations Research (IEOR)
+Scholastic Achievements
+• Secured 99.96 percentile in JEE Mains and 99.18 percentile in the JEE Advanced Examination
+[’19]
+• Recipient of the prestigious KVPY Fellowship program by Dept. of Science and Technology, Govt. of India
+[’18]
+• Acheived an All India Rank of 80 in the National Engineering Olympiad 3.0
+[’20]
+Professional Experience
+SPACE x VIEW Pte. Ltd, SINGAPORE | Research & Development Internship
+[Jun-Jul’21]
+• Worked with a team of 5 co-interns to create the ﬁrst working prototype of a system of controllable buoys capable
+of oceanic data collection and transmission for building real-time models that help the Japanese Fishing Industry
+• Tasked with the design of the Power Management System for the buoy to make it operational for 3+ hrs
+• Integrated the PH, Temperature, TDS and GPS sensors along with the Solar Panels on the ﬁnal prototype
+Key Technical Projects
+TEAM AEROVE | UMIC, IIT Bombay
+[Sep’20-Present]
+Senior Engineer | Guide: Prof. Dhwanil Shukla, Dept. of Aerospace Engineering IIT Bombay
+Motion
+Planning
+• Working on 3-D Mapping & Motion Planning problems for aerial vehicles in unknown environments
+• Implemented and validated the use of algorithms like A*, RRT* & DWA for indoor drone systems
+• Critiqued various mapping frameworks like Octomaps & Skimaps for real-time probabilistic mapping
+• Implemented Dynamic Obstacle Avoidance algorithms for robust, high-speed local planning
+Controls
+• Developed Minimum Snap Trajectories for the drone using jointly optimized polynomial segments
+• Worked with varied drone hardware, and validated basic ﬂight strategies using MAVROS scripts
+• Achieved a stable Position Hold with an accuracy of 5cm using PID control using ﬂight controllers
+• Integrated an RGDB Camera to work with ORB-SLAM2 for pose estimation with upto 4cm accuracy
+INTERNATIONAL AERIAL ROBOTICS COMPETITION 2021 | UMIC, IIT Bombay
+[Sep’20-Feb’21]
+Developed a system of Autonomous Multicopters for the World’s Longest Running Aerial Robotics Competition
+• Declared WORLD CHAMPIONS of the Mission 9 Simulation Challenge, hosted by AUVSI across 5 continents
+• Junior Engineer in the Controls and Motion Planning subsystem of the team, worked closely with 20 members
+• Implemented dynamic Waypoint Navigation in the GAZEBO simulation for a mother-daughter system of drones
+• Developed an algorithm to localize points in the UAV environment using only the feed of a monocular camera
+• Formulated and implemented a Finite-State-Machine structure acting as the central Autopilot for the drones
+EXTENDED MASK R-CNN | Course Project
+[Oct-Nov’20]
+Prof. Biplab Banerjee | Machine Learning for Remote Sensing
+• Constructed a two step approach for multi-label classiﬁcation of 7 diﬀerent Yoga Poses on a custom dataset
+• Used the Mask R-CNN trained on the COCO dataset as the backbone network for human instance segmentation
+• Developed a neural network for classifying the extracted instances to achieve an accuracy of 95.6% on the test data
+ASME - STUDENT DESIGN CHALLENGE 2021 | UMIC, IIT Bombay
+[Dec’20-Apr’21]
+An International Mechatronics competition organised by the American Society Of Mechanical Engineers
+• Reached the World Finals of the competition after going through several knockout rounds | GLOBAL RANK 4
+• Led the electrical subsystem of the team to build a bot capable of carrying 5 Kgs powered by a single AAA battery
+• Designed and created a stack of Boost Converters on customized PCBs for maximising the battery performance
+• Constructed a custom diﬀerential drive for the robot using SPDT Relays, ATTINY IC & Bluetooth module
+• Strategised game-play tactics during the competition’s knockout tournament to maximize reward points for the team
+BIG DATA ANALYTICS | Course Project
+[July-Aug’20]
+Prof. Prabhu Ramachandran, Department of Aerospace Engineering IIT Bombay
+• Extracted the data set of COVID−19 active cases worldwide and used statistical models for analyzing the pandemic
+• Used various python libraries (like NumPy, SciPy, Pandas) for Data cleaning, processing and modelling
+• Validated various statistical theories like the CLT relating to hypothesis testing for diﬀerent types of distributions
+MULTI AGENT COLLISION AVOIDANCE | Research Project
+[Jan-Jul’21]
+Guide : Prof. Leena Vachhani, Systems & Controls Department, IIT Bombay
+• Worked on the simulating obstacle avoidance for a system of mobile robots using Interval Analysis techniques.
+• Formulated a new mathematical model for the intervals approach and prooof tested it in the GAZEBO simulation
+• Studied the hardware expandability of the approach for parallel & embedded applications for robotic systems
+PROJECT ETH | UMIC, IIT Bombay
+[July-Aug’20]
+Autumn of Automation
+• Created a real-time simulation of a robot performing a series of Automated tasks to solve the given problem statement
+• Extracted and manipulated the Point Cloud data to localize the interest points making use of TF Trees in ROS
+• Formulated Inverse Kinematics on a 3-Degree Of Freedom robotic arm system to be used by the robot
+NONLINEAR DYNAMICS | Guided Study
+[Jun-July’20]
+Summer of Science | Maths & Physics Club, IIT Bombay
+• Studied Linear Algebra and Diﬀerential Equations in the context of Nonlinear System Dynamics
+• Learned about bifurcations and generated phase portraits of famous 2-D nonlinear problems using Python
+• Compared the accuracy of diﬀerent numerical methods for solving diﬀerential equations in the 2-D pendulum problem
+Position of Responsibility
+COORDINATOR, TEAM AEROVE | UMIC, IIT Bombay
+[May’19-Jul’20]
+The Innovation Cell aims to facilitate technical start-ups and foster an atmosphere of innovation and entrepreneurship
+• Member of the team in charge of planning, organizing & publicizing events under the Innovation Cell
+• Drafted a budget proposal of INR 1.5 M to the Student Technical Project Committee targeting IARC 2022
+• Conducted the recruitment drive and took interviews to shortlist 30 students from a pool of 100+ freshmen
+ACADEMIC MENTOR | Department of Aerospace, IIT Bombay
+[May’21-Present]
+Department Academic Mentorship Program
+• Part of a team of 23 mentors selected based on interviews & peer-reviews, closely mentoring 7 sophomores .
+• Helping mentees, strike a balance between academics & extracurriculars, and manage time eﬃciently
+• Contributed in the Department Video Initiative, aimed as an introduction to the department labs & facilities
+SPORTS SECRETARY | Hostel 2, IIT Bombay
+[Sep’20-Mar’21]
+• Member of a 3-tier hostel council made up of 28 members selected after rigorous groundworks & interviews
+• Responsible for ideating and organising all sports related activities and promoting a healthy sports culture
+• Conducted several E-Sports Tournaments amidst online semester to sustain sports culture in the hostel
+• Successfully organised an online resume making session in L
+A
+T
+EX to help sophomores draft their resumes
+Technical Skills
+Coding
+C++, ROS, Python, R, OpenCV, MATLAB, Tensorﬂow, Keras, PyTorch
+Softwares
+SolidWorks, AutoCAD, GAZEBO, QGroundControl, Arduino IDE, Git, MiniZinc, L
+AT
+EX
+Key Courses Undertaken
+Core
+Spaceﬂight Mechanics, Control Theory, Propulsion, Fluid Mechanics, Aerospace Structures
+Maths and
+Computing
+Simulation Modeling and Analysis, Data Analysis and Interpretation, Numerical Analysis,
+Linear Algebra, Diﬀerential Equations, Computer programming and Utilization
+AI
+Machine Learning for Remote Sensing, Deep Learning*, Intelligent & Learning Agents*
+* to be completed by Dec 2021
+Extracurriculars
+Social
+• Mentored 25+ middle school students towards building a solar lamp with the SoULS Organization
+[’19]
+• Created 2+ hrs of educational YouTube content for underprivileged children with NSS, IITBombay [’19]
+Sports
+• Received 1 yr of professional training in Football under the National Sports Organization
+[’19-’20]
+• Received Bronze in the Dehradun district during the Ranger’s U-17 Cup with the BBA
+[’16]
+Cultural
+• Stood First among all the freshmen in the Inter Hostel Music Video Making Competition
+[’19]
+• Performed a group hip-hop dance in front of a crowd of 500+ people at Salsa Night
+[’19]
+",10
+1,"Pursuing a Dual Minor in Computer Science and Artiﬁcial Intelligence & Data Science
+Scholastic Achievements
+• Currently Ranked 3rd in a department of 110+ undergraduates
+(2021)
+• Conferred with an AP grade (Advanced Performer) in the course MM 203 : Mechanics of Materials (2 out
+of 114 students) for scoring the highest points in the course
+(2021)
+• Ranked in the top 1.17 percentile in the JEE Advanced exam among 0.24 million candidates.
+(2019)
+• Achieved 99.32 percentile in the JEE Main exam among 1.18 million candidates
+(2019)
+• Nominated for the INSPIRE Scholarship by the Department of Science & Technology, Government of
+India for being in the top 1 percentile of the HSC Board Examinations
+(2019)
+• Awarded a Silver Medal in Dr. Homi Bhabha Balvaidnyanik Competition
+(2016)
+Professional Experience
+Summer Research Intern | TU Delft, The Netherlands
+(May 2021 - Jul 2021)
+Guide: Prof. Miguel Bessa | Graph Similarity Computation
+• Performed a literature review of the present State of the Art in Graph Similarity Computation
+• Implemented a batched and parallelized version of the current State of the Art using PyTorch
+Geometric, replicated its results and critiqued the choices of the various layers used by the model
+• Carried out fundamental improvements in the feature engineering of the data and the model to achieve an
+improvement in performance over the current State of the Art - SimGNN
+Key Projects
+Financial Fraud Detection | Course Project
+(Apr 2021)
+Guide: Prof. Biplab Banerjee | Introduction to Machine Learning
+• Visualized data obtained from 275,000+ credit card transactions made by European cardholders using
+the t-SNE algorithm to check the validity of modelling the problem statement as an Anomaly Detection
+• Built a Gaussian Anomaly Detection model combined with power transforms to detect fraud
+• Implemented ensemble methods - Random Forests Classiﬁer, LightGBM and XGBoost to better
+model the fraudulent transactions - achieved the best results with LightGBM out of the 3 ensembles
+• Leveraged the power of an Undercomplete Autoencoder to learn hidden representations of non-fraud
+transactions to detect fraudulent ones in an unsupervised manner: F2 Score - 0.962, F1 Score - 0.917
+Data Science to Analyze a Bank Marketing Campaign | Course Project
+(Nov 2020)
+Guides: Prof. Amit Sethi & Prof. Manjesh K Hanawal | Programming for Data Science
+One of the only 3 projects to receive a perfect grade among 30+ project submissions
+• Analyzed the marketing campaign of Banco de Portugal after the Great Recession of 2008 with the
+focus of increasing client subscriptions to Term Deposit Accounts
+• Performed EDA and Hypothesis Testing to determine the key drivers of the campaign
+• Carried out feature engineering and used machine learning models - Random Forest Classiﬁer, SVM
+Classiﬁer and Neural Network with 4-fold cross validation to predict success for a particular client
+• Restructured the data by oversampling of the minority class to deal with class imbalance, leading to
+the best results with the Random Forest Classiﬁer : F1 Score = 0.894 and Accuracy = 89.41%
+Kunind Sahu
+Metallurgical Engineering and Materials Science 
+Indian Institute of Technology Bombay
+190110039
+B.Tech.
+Gender: Male
+DOB:  12/27/2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+Intermediate
+Matriculation
+IIT Bombay
+HSC
+ICSE
+IIT Bombay
+Pace Jr. Science College
+Smt. Sulochanadevi Singhania School
+2023
+2019
+2017
+92.46%
+96.83%
+Options Pricing | Finsearch, Finance Club IITB (Ongoing Project)
+(Jul 2021)
+• Extensively read about options pricing and the mathematical theory behind Brownian Motion
+• Coded the Black-Scholes Model in Python to predict the options prices of Tesla and Microsoft and
+investigated the relationship between strike price and option price for a given security
+Digit Recognition using Neural Networks | Self Project
+(Jun 2020)
+• Coded a Neural Network Classiﬁer from scratch in Python
+• Used NumPy library to implement the Forward Propagation & Backpropagation Algorithm
+• Achieved a digit classiﬁcation accuracy of 95.4% with the Neural Network architecture
+Image Compression using Unsupervised Learning | Self Project
+(Jun 2020)
+• Designed and implemented a K-means Clustering Algorithm from scratch in Python using NumPy
+and SciPy libraries to recreate a user given image with the best 16 colours possible
+• Achieved a compression of the image by approximately 6 times as compared to the original size
+Intelligent Agent for 2048 Game | Seasons of Code, IITB
+(Jun 2021)
+• Employed the Expectimax Algorithm to play the game, reaching a score of 11,500+
+• Attempted a Deep Q Network to improve upon the baselines set by the Expectimax Algorithm
+Positions of Responsibility
+Academic Mentor | Department Academic Mentorship Programme
+(May 2021 - Present)
+Part of a team aiming to play a facilitative, supportive and developmental role for junior students
+• Selected from 70+ applicants on the basis of rigorous interviews, social behaviour and peer reviews
+• Mentoring 8 sophomores, catering to their academic needs and helping them achieve overall stability
+• Involved in revamping and updating the DAMP Blog with course reviews & minor elective reviews
+Teaching Assistant | Linear Algebra
+(Mar 2021 - May 2021)
+Prof. Dipendra Prasad & Prof. Sudhir Ghorpade, Department of Mathematics, IIT Bombay
+• Responsible for academically mentoring a batch of 43 freshmen students for the course
+• Conducted weekly tutorial sessions to solve their diﬃculties and evaluated their examination papers
+Head | Data Analytics and Visualization Team
+(Jun 2021 - Present)
+Leading a team of 11 responsible for analyzing and presenting insights about institute related data
+• Selected on the basis of a rigorous assignment and interviews about teamwork and machine learning skills.
+• Executed a 2-step recruitment procedure comprising a programming assignment followed by an interview
+round to form a team of 11 from a pool of 70+ applicants
+Technical Skills
+• Languages: Python, C++, Java, SQL, MATLAB, R, L
+AT
+EX
+• Softwares and Frameworks : PyTorch, PyTorch Geometric, NetworkX, Solidworks, MS Oﬃce
+Key Courses Undertaken
+CS & AI
+Computer Programming & Utilization, Programming for Data Science,
+Introduction to Machine Learning, Foundations of Intelligent Learning Agents*,
+Computer Networks*, Introduction to Number Theory and Cryptography*
+Mathematics
+Linear Algebra, Data Analysis & Interpretation, Diﬀerential Equations,
+A First Course in Optimization, Numerical Analysis, Calculus
+*To be completed by Nov 2021
+Extracurricular Activities
+• Bagged 2nd place in the Supply-Demand Simulation Game organized by EnB Club, IITB
+(Aug 2019)
+• Awarded 3rd position in the Strategy Wars Competition organized by Finance Club, IITB
+(Sep 2019)
+• Successfully completed a course on Financial Modelling under Learner’s Space by Career Cell, IITB
+(Jun 2020)
+• Made a Business Model Canvas for a mock startup in EnB Buzz competition hosted by EnB Club, IITB (Aug 2019)
+• Volunteered as a writer for ICSE Board Exams 2016 for special needs students of Singhania School
+(Apr 2016)
+• Completed a year-long sports programme in Lawn Tennis, organized by NSO, IITB
+(Aug 2019 - Mar 2020)
+",6
+2,"Pursuing a Dual Minor in Computer Science and Artiﬁcial Intelligence & Data Science
+Scholastic Achievements
+• Currently Ranked 3rd in a department of 110+ undergraduates
+(2021)
+• Awarded an AP grade (2 out of 114 students) in the course MM203 : Mechanics of Materials
+(2021)
+Professional Experience
+Summer Research Intern | Prof. Miguel Bessa | TU Delft
+(May 2021 - Jul 2021)
+• Performed a literature review of the present State of the Art in Graph Similarity Computation
+• Implemented a batched and parallelized version of the current State of the Art using PyTorch
+Geometric, replicated its results and critiqued the choices of the various layers used by the model
+• Carried out fundamental improvements in the feature engineering of the data and the model to achieve an
+improvement in performance over the current State of the Art - SimGNN
+Key Projects
+Financial Fraud Detection | Prof. Biplab Banerjee | Course Project
+(Apr 2021)
+• Visualized data obtained using t-SNE to validate modelling the problem as an Anomaly Detection
+• Built a Gaussian Anomaly Detection model combined with power transforms to detect fraud
+• Leveraged the power of an Undercomplete Autoencoder to learn hidden representations of non-fraud
+transactions to detect fraudulent ones in an unsupervised manner: F2 Score - 0.962, F1 Score - 0.917
+Analysis of a Marketing Campaign | Prof. Amit Sethi | Course Project
+(Nov 2020)
+One of the only 3 projects to receive a perfect grade among 30+ project submissions
+• Analyzed Banco de Portugal’s marketing campaign to increase client subscriptions to Term Deposit
+Accounts and performed feature engineering and hypothesis testing to determine its key drivers
+• Restructured the data by oversampling of the minority class to deal with class imbalance, leading to
+the best results with the Random Forest Classiﬁer : F1 Score = 0.894 and Accuracy = 89.41%
+Options Pricing | Finsearch, Finance Club IITB (Ongoing Project)
+(Jul 2021)
+• Extensively read about options pricing and the mathematical theory behind Brownian Motion
+• Coded the Black-Scholes Model in Python to predict the options prices of Tesla and Microsoft and
+investigated the relationship between strike price and option price for a given security
+Positions of Responsibility
+Team Head | Data Analytics and Visualization Team
+(Jun 2021 - Present)
+• Selected on the basis of a rigorous assignment and interviews about teamwork and machine learning skills
+• Executed a 2-step recruitment procedure comprising a programming assignment followed by an interview
+round to form a team of 11 members from a pool of 70+ applicants
+Academic Mentor | Department Academic Mentorship Programme
+(May 2021 - Present)
+• Mentoring 8 sophomores, helping them strike a balance between academics and extra-curriculars whilst
+liaising with faculty and over 30+ co-mentors in order to smoothen their transition into the department
+Teaching Assistant | Linear Algebra | Prof. Sudhir Ghorpade
+(Mar 2021 - May 2021)
+• Academically mentored 43 freshmen and took weekly tutorial sessions to help with their diﬃculties
+Extracurricular Activities
+• Bagged 2nd place in the Supply-Demand Simulation Game organized by EnB Club, IITB
+(Aug 2019)
+• Awarded 3rd position in the Strategy Wars Competition organized by Finance Club, IITB
+(Sep 2019)
+• Successfully completed a course on Financial Modelling under Learner’s Space by Career Cell, IITB
+(Jun 2020)
+• Volunteered as a writer for ICSE Board Exams 2016 for special needs students of Singhania School
+(Apr 2016)
+• Completed a year-long sports programme in Lawn Tennis, organized by NSO, IITB
+(Aug 2019 - Mar 2020)
+Kunind Sahu
+Metallurgical Engineering and Materials Science 
+Indian Institute of Technology Bombay
+190110039
+B.Tech.
+Gender: Male
+DOB:  12/27/2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+IIT Bombay
+IIT Bombay
+2023
+",1
+3,"Scholastic Achievements
+• Secured 99.84 percentile in JEE Mains out of over 1.1 million candidates
+(2019)
+• Achieved 98.3 percentile in JEE-Advanced out of more than 0.2 million candidates
+(2019)
+• Scored 410 out of 450 marks in BITSAT examination conducted by BITS, Pilani
+(2019)
+Internship and Key Projects
+Locust Occurrence Modelling and Prediction
+Summer 2021
+Data Science Associate | Data Science Intern
+Dtime
+• Worked on an end-to-end machine learning project to model and forecast locust outbreaks in East-African region.
+• Implemented machine learning algorithms to extract and engineer new features and capture the spatial and
+temporal characteristics of the problem, and tackle the heavily skewed nature of the problem, (as high as 1:5k).
+• Implemented Bi-directional ConvLSTM based U-Net model for pixel level classiﬁcation on 67k grid-IDs of 10
+km2 each, projected over spatial images corresponding to 450+ timestamps, with respective segmentation masks.
+• Used a combination of algorithms like SMOTEENN and SMOTETomek, with Balanced Ensemble Classiﬁers
+to reduce the eﬀect of class asymmetry and predict a locust occurrence, minimizing false negatives successfully.
+Spoof-Resistant Face Recognition
+Summer 2020
+Institute Technical Summer Project
+WnCC, IIT Bombay
+• Built an convolutional neural network and trained it on a self-made live and fake images dataset.
+• Extracted 128-D facial encoding vectors from dlib’s 5-point facial landmark model to train a support vector
+machine and work with the liveness detection model to identify the face.
+• Implemented OpenCV’s Caﬀe based face detector to detect a single face in the image.
+Lossless High-Entropy Compression Algorithm
+Summer 2020
+Seasons of Code
+WnCC, IIT Bombay
+• Successfully implemented a seq2seq recurrent neural network model using Long Short Term Memory (LSTM)
+units to achieve high entropy data compression, for storage in reduced spaces.
+• Achieved the task to convert numeric sequences of a ﬁxed length to compressed versions minimizing the complexity of
+their fourier-transform, and created a functionality to generate a mapping and recreate the original signal from it.
+Red Plag : Plagiarism Checker
+Autumn 2020
+Prof. Amitabha Sanyal — (Course project)
+IIT Bombay
+• Developed a plagiarism checker to measure pairwise similarity between a collection of text ﬁles.
+• Adopted an algorithm that involved using separate tokenizers for languages C++, Java, Python followed by
+winnowing of vectors from hashed k-grams to compute similarity percentage.
+• Created a web front-end using Angular framework to visualize results in a graphical manner, and Django based
+web-framework for the backend server to maintain the database, and to link and store query results.
+• Added authentication using JSON web-tokens (JWT), to restrict access to authorised individuals only.
+Comparison of TCP variants
+Spring 2021
+Prof. Vinay Ribeiro — (Course Project)
+IIT Bombay
+• Simulated a client and server network using Socket in C, to transfer ﬁles using diﬀerent variants of TCP.
+• Recorded network traﬃc using Wireshark and analysed window scaling graphs for TCP Cubic and Reno.
+IITB Proc: Multi-Cycle Processor
+Spring 2021
+Prof. Virendra Singh — (Course Project)
+IIT Bombay
+• Designed a 16-bit computer system with 8 general purpose registers, capable of executing instructions like Jump,
+BEQ, and multiple Load and Store and add-subtract arithmetic operations using a 16 bit Kogge Stone Adder.
+Technical Skills
+Software skills :
+C++, Python, Bash, Java, JavaScript, HTML, SQL, MATLAB, Git, L
+AT
+EX
+Data Science :
+Pytorch, Tensorﬂow, Keras, Numpy, OpenCV, Pandas, Matplotlib, Sklearn, Imblearn
+Extracurricular
+• Attended InterIIT Camp for Aquatics and currently a member of Aquatics Team IITB
+• Competed in All India IPSC Swimming Championship (U-19) and won 2nd prize in an event.
+(2016)
+• Took part in 62nd National School Swimming Championship (U-19) organised by SGFI.
+(2016)
+Scholastic achievements and extracurricular activities are not verified by the Placement Cell
+Ojas Gramopadhye
+Computer Science & Engineering
+Indian Institute of Technology, Bombay
+190050075
+B.Tech.
+Gender: Male
+DOB:  17-06-2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+IIT Bombay
+IIT Bombay
+2023
+null
+",8
+4,"Pursuing a Dual Minor in Computer Science and Artiﬁcial Intelligence & Data Science
+Scholastic Achievements
+• Currently Ranked 3rd in a department of 110+ undergraduates
+(2021)
+• Awarded an AP grade (2 out of 114 students) in the course MM203 : Mechanics of Materials
+(2021)
+Research Experience
+Graph Similarity Computation | Prof. Miguel Bessa, TU Delft
+(May 2021 - Jul 2021)
+• Performed a literature review of the present State of the Art in Graph Similarity Computation
+• Implemented a batched and parallelized version of the current State of the Art using PyTorch
+Geometric, replicated its results and critiqued the choices of the various layers used by the model
+• Carried out fundamental improvements in the feature engineering of the data and the model to achieve an
+improvement in performance over the current State of the Art - SimGNN
+Key Projects
+Financial Fraud Detection | Prof. Biplab Banerjee | Course Project
+(Apr 2021)
+• Visualized data obtained using t-SNE to validate modelling the problem as an Anomaly Detection
+• Built a Gaussian Anomaly Detection model combined with power transforms to detect fraud
+• Leveraged the power of an Undercomplete Autoencoder to learn hidden representations of non-fraud
+transactions to detect fraudulent ones in an unsupervised manner: F2 Score - 0.962, F1 Score - 0.917
+Analysis of a Marketing Campaign | Prof. Amit Sethi | Course Project
+(Nov 2020)
+One of the only 3 projects to receive a perfect grade among 30+ project submissions
+• Analyzed Banco de Portugal’s marketing campaign to increase client subscriptions to Term Deposit
+Accounts and performed feature engineering and hypothesis testing to determine its key drivers
+• Restructured the data by oversampling of the minority class to deal with class imbalance, leading to
+the best results with the Random Forest Classiﬁer : F1 Score = 0.894 and Accuracy = 89.41%
+Image Compression using Unsupervised Learning | Self Project
+(Jun 2020)
+• Designed and implemented a K-means Clustering Algorithm from scratch in Python using NumPy
+and SciPy libraries to recreate a user given image with the best 16 colours possible
+• Achieved a compression of the image by approximately 6 times as compared to the original size
+Positions of Responsibility
+Teaching Assistant | Linear Algebra | Prof. Sudhir Ghorpade
+(Mar 2021 - May 2021)
+• Academically mentored 43 freshmen and took weekly tutorial sessions to help with their diﬃculties
+Academic Mentor | Department Academic Mentorship Programme
+(May 2021 - Present)
+• Mentoring 8 sophomores, helping them strike a balance between academics and extra-curriculars whilst
+liaising with faculty and over 30+ co-mentors in order to smoothen their transition into the department
+Team Head | Data Analytics and Visualization Team
+(Jun 2021 - Present)
+• Selected on the basis of a rigorous assignment and interviews about teamwork and machine learning skills
+• Executed a 2-step recruitment procedure comprising a programming assignment followed by an interview
+round to form a team of 11 members from a pool of 70+ applicants
+Extracurricular Activities
+• Bagged 2nd place in the Supply-Demand Simulation Game organized by EnB Club, IITB
+(Aug 2019)
+• Awarded 3rd position in the Strategy Wars Competition organized by Finance Club, IITB
+(Sep 2019)
+• Successfully completed a course on Financial Modelling under Learner’s Space by Career Cell, IITB
+(Jun 2020)
+• Volunteered as a writer for ICSE Board Exams 2016 for special needs students of Singhania School
+(Apr 2016)
+• Completed a year-long sports programme in Lawn Tennis, organized by NSO, IITB
+(Aug 2019 - Mar 2020)
+Kunind Sahu
+Metallurgical Engineering and Materials Science 
+Indian Institute of Technology Bombay
+190110039
+B.Tech.
+Gender: Male
+DOB:  12/27/2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+IIT Bombay
+IIT Bombay
+2023
+",2
+5,"Pursuing a Dual Minor in Computer Science and Artiﬁcial Intelligence & Data Science
+Scholastic Achievements
+• Currently Ranked 3rd in a department of 110+ undergraduates
+(2021)
+• Conferred with an AP grade (Advanced Performer) in the course MM 203 : Mechanics of Materials (2 out
+of 114 students) for scoring the highest points in the course
+(2021)
+• Ranked in the top 1.17 percentile in the JEE Advanced exam among 0.24 million candidates.
+(2019)
+• Achieved 99.32 percentile in the JEE Main exam among 1.18 million candidates
+(2019)
+• Nominated for the INSPIRE Scholarship by the Department of Science & Technology, Government of
+India for being in the top 1 percentile of the HSC Board Examinations
+(2019)
+• Awarded a Silver Medal in Dr. Homi Bhabha Balvaidnyanik Competition
+(2016)
+Research Experience
+Graph Similarity Computation | TU Delft, The Netherlands
+(May 2021 - Jul 2021)
+Guide: Prof. Miguel Bessa | Summer Research Internship
+• Performed a literature review of the present State of the Art in Graph Similarity Computation
+• Implemented a batched and parallelized version of the current State of the Art using PyTorch
+Geometric, replicated its results and critiqued the choices of the various layers used by the model
+• Carried out fundamental improvements in the feature engineering of the data and the model to achieve an
+improvement in performance over the current State of the Art - SimGNN
+Key Projects
+Financial Fraud Detection | Course Project
+(Apr 2021)
+Guide: Prof. Biplab Banerjee | Introduction to Machine Learning
+• Visualized data obtained from 275,000+ credit card transactions made by European cardholders using
+the t-SNE algorithm to check the validity of modelling the problem statement as an Anomaly Detection
+• Built a Gaussian Anomaly Detection model combined with power transforms to detect fraud
+• Implemented ensemble methods - Random Forests Classiﬁer, LightGBM and XGBoost to better
+model the fraudulent transactions - achieved the best results with LightGBM out of the 3 ensembles
+• Leveraged the power of an Undercomplete Autoencoder to learn hidden representations of non-fraud
+transactions to detect fraudulent ones in an unsupervised manner: F2 Score - 0.962, F1 Score - 0.917
+Data Science to Analyze a Bank Marketing Campaign | Course Project
+(Nov 2020)
+Guides: Prof. Amit Sethi & Prof. Manjesh K Hanawal | Programming for Data Science
+One of the only 3 projects to receive a perfect grade among 30+ project submissions
+• Analyzed the marketing campaign of Banco de Portugal after the Great Recession of 2008 with the
+focus of increasing client subscriptions to Term Deposit Accounts
+• Performed EDA and Hypothesis Testing to determine the key drivers of the campaign
+• Carried out feature engineering and used machine learning models - Random Forest Classiﬁer, SVM
+Classiﬁer and Neural Network with 4-fold cross validation to predict success for a particular client
+• Restructured the data by oversampling of the minority class to deal with class imbalance, leading to
+the best results with the Random Forest Classiﬁer : F1 Score = 0.894 and Accuracy = 89.41%
+Kunind Sahu
+Metallurgical Engineering and Materials Science 
+Indian Institute of Technology Bombay
+190110039
+B.Tech.
+Gender: Male
+DOB:  12/27/2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+Intermediate
+Matriculation
+IIT Bombay
+HSC
+ICSE
+IIT Bombay
+Pace Jr. Science College
+Smt. Sulochanadevi Singhania School
+2023
+2019
+2017
+92.46%
+96.83%
+Digit Recognition using Neural Networks | Self Project
+(Jun 2020)
+• Coded a Neural Network Classiﬁer from scratch in Python
+• Used NumPy library to implement the Forward Propagation & Backpropagation Algorithm
+• Achieved a digit classiﬁcation accuracy of 95.4% with the Neural Network architecture
+Image Compression using Unsupervised Learning | Self Project
+(Jun 2020)
+• Designed and implemented a K-means Clustering Algorithm from scratch in Python using NumPy
+and SciPy libraries to recreate a user given image with the best 16 colours possible
+• Achieved a compression of the image by approximately 6 times as compared to the original size
+Intelligent Agent for 2048 Game | Seasons of Code, IITB
+(Jun 2021)
+• Employed the Expectimax Algorithm to play the game, reaching a score of 11,500+
+• Attempted a Deep Q Network to improve upon the baselines set by the Expectimax Algorithm
+Options Pricing | Finsearch, Finance Club IITB (Ongoing Project)
+(Jul 2021)
+• Extensively read about options pricing and the mathematical theory behind Brownian Motion
+• Coded the Black-Scholes Model in Python to predict the options prices of Tesla and Microsoft and
+investigated the relationship between strike price and option price for a given security
+Teaching Experience
+Teaching Assistant | Linear Algebra
+(Mar 2021 - May 2021)
+Prof. Dipendra Prasad & Prof. Sudhir Ghorpade, Department of Mathematics, IIT Bombay
+• Responsible for academically mentoring a batch of 43 freshmen students for the course
+• Conducted weekly tutorial sessions to solve their diﬃculties and evaluated their examination papers
+Positions of Responsibility
+Academic Mentor | Department Academic Mentorship Programme
+(May 2021 - Present)
+Part of a team aiming to play a facilitative, supportive and developmental role for junior students
+• Selected from 70+ applicants on the basis of rigorous interviews, social behaviour and peer reviews
+• Mentoring 8 sophomores, catering to their academic needs and helping them achieve overall stability
+• Involved in revamping and updating the DAMP Blog with course reviews & minor elective reviews
+Head | Data Analytics and Visualization Team
+(Jun 2021 - Present)
+Leading a team of 11 responsible for analyzing and presenting insights about institute related data
+• Selected on the basis of a rigorous assignment and interviews about teamwork and machine learning skills.
+• Executed a 2-step recruitment procedure comprising a programming assignment followed by an interview
+round to form a team of 11 from a pool of 70+ applicants
+Technical Skills
+• Languages: Python, C++, Java, SQL, MATLAB, R, L
+AT
+EX
+• Softwares and Frameworks : PyTorch, PyTorch Geometric, NetworkX, Solidworks, MS Oﬃce
+Key Courses Undertaken
+CS & AI
+Computer Programming & Utilization, Programming for Data Science,
+Introduction to Machine Learning, Foundations of Intelligent Learning Agents*,
+Computer Networks*, Introduction to Number Theory and Cryptography*
+Mathematics
+Linear Algebra, Data Analysis & Interpretation, Diﬀerential Equations,
+A First Course in Optimization, Numerical Analysis, Calculus
+*To be completed by Nov 2021
+Extracurricular Activities
+• Bagged 2nd place in the Supply-Demand Simulation Game organized by EnB Club, IITB
+(Aug 2019)
+• Awarded 3rd position in the Strategy Wars Competition organized by Finance Club, IITB
+(Sep 2019)
+• Successfully completed a course on Financial Modelling under Learner’s Space by Career Cell, IITB
+(Jun 2020)
+• Volunteered as a writer for ICSE Board Exams 2016 for special needs students of Singhania School
+(Apr 2016)
+• Completed a year-long sports programme in Lawn Tennis, organized by NSO, IITB
+(Aug 2019 - Mar 2020)
+",5
+6,"Pursuing a minor degree in the Department of Industrial Engineering and Operations Research (IEOR)
+Professional Experience
+SPACE x VIEW Pte. Ltd, SINGAPORE | Research & Development Internship
+[Jun-Jul’21]
+• Worked with a team of 5 co-interns to create the ﬁrst working prototype of a system of controllable buoys capable
+of oceanic data collection and transmission for building real-time models that help the Japanese Fishing Industry
+• Tasked with the design of the Power Management System for the buoy to make it operational for 3+ hrs
+• Integrated the PH, Temperature, TDS and GPS sensors along with the Solar Panels on the ﬁnal prototype
+Key Technical Projects
+TEAM AEROVE | UMIC, IIT Bombay
+[Sep’20-Present]
+Senior Engineer | Guide: Prof. Dhwanil Shukla, Dept. of Aerospace Engineering IIT Bombay
+WORLD CHAMPIONS of the IARC Mission 9 Simulation Challenge, hosted by AUVSI across 5 Continents
+Motion
+Planning
+• Working on 3-D Mapping & Motion Planning problems for aerial vehicles in unknown environments
+• Validated the use of path planning algorithms like A*, RRT* & DWA for indoor drone systems
+• Critiqued various mapping frameworks like Octomaps & Skimaps for real-time probabilistic mapping
+Controls
+• Developed Minimum Snap Trajectories for the drone using jointly optimized polynomial segments
+• Worked with varied drone hardware, and validated basic ﬂight strategies using MAVROS scripts
+• Formulated a Finite-State-Machine structure acting as the central mission Autopilot for the drones
+EXTENDED MASK R-CNN | Course Project
+[Oct-Nov’20]
+Prof. Biplab Banerjee | Machine Learning for Remote Sensing
+• Constructed a two step approach for multi-label classiﬁcation of 7 diﬀerent Yoga Poses on a custom dataset
+• Used the Mask R-CNN trained on the COCO dataset as the backbone network for human instance segmentation
+• Developed a neural network for classifying the extracted instances to achieve an accuracy of 95.6% on the test data
+ASME - STUDENT DESIGN CHALLENGE 2021 | UMIC, IIT Bombay
+[Dec’20-Apr’21]
+An International Mechatronics competition organised by the American Society Of Mechanical Engineers
+• Reached the World Finals of the competition after going through several knockout rounds | GLOBAL RANK 4
+• Led the electrical subsystem of the team to build a bot capable of carrying 5 Kgs powered by a single AAA battery
+• Designed and created a stack of Boost Converters on customized PCBs for maximising the battery performance
+Position of Responsibility
+COORDINATOR, TEAM AEROVE | UMIC, IIT Bombay
+[May’19-Jul’20]
+The Innovation Cell aims to facilitate technical start-ups and foster an atmosphere of innovation and entrepreneurship
+• Member of the team in charge of planning, organizing & publicizing events under the Innovation Cell
+• Drafted a budget proposal of INR 1.5 Million to the Student Technical Project Committee, targeting IARC 2022
+• Conducted the recruitment drive and took interviews to shortlist 30 students from a pool of 100+ freshmen
+ACADEMIC MENTOR | Department of Aerospace, IIT Bombay
+[May’21-Present]
+Department Academic Mentorship Program
+• Part of a team of 23 mentors selected based on interviews & peer-reviews, closely mentoring 7 sophomores .
+• Helping mentees, strike a balance between academics & extracurriculars, and manage time eﬃciently
+• Contributed in the Department Video Initiative, aimed as an introduction to the department labs & facilities
+SPORTS SECRETARY | Hostel 2, IIT Bombay
+[Sep’20-Mar’21]
+• Member of a 3-tier hostel council made up of 28 members selected after rigorous groundworks and interviews
+• Responsible for ideating and organising all sports related activities and promoting a healthy sports culture
+• Conducted several E-Sports Tournaments to sustain the sports culture in the hostel amidst an online semester
+Extracurriculars
+Social
+• Mentored 25+ middle school students in a solar lamp building workshop with the SoULS Organization
+• Created 2+ hrs of educational YouTube content for underprivileged children with NSS, IITBombay
+Sports
+• Received 1 yr of professional training in Football under the National Sports Organization
+• Bagged Bronze in the Dehradun district during the Ranger’s U-17 Cup with the BBA
+Cultural
+• Stood First among all the freshmen in the Inter Hostel Music Video Making Competition
+• Performed a group hip-hop dance in front of a crowd of 500+ people at Salsa Night
+",11
+7,"Pursuing a Minor degree in the Department of Computer Science & Engineering
+SCHOLASTIC ACHIEVEMENTS
+• Secured All India Rank 669 in JEE Advanced out of 245,000 candidates
+(’19)
+• Secured a percentile of 99.75% in JEE Mains out of 1.1 million candidates
+(’19)
+• Secured a percentile of 99.93% in MHT-CET out of 275,000 candidates
+(’19)
+CONFERENCE PRESENTATION
+• Jagdale K., Mehta A. et al. “Technology Demonstration of Antenna Deployment System on PSLV Stage 4 Orbital Platform”
+extended abstract presented in National Conference on Small Satellite Technology & Applications, Trivandrum, India, 2020
+PROFESSIONAL EXPERIENCE
+Jefferies India Private Limited | Equity Research Intern
+(May’21 - Jul’21)
+Jefferies is an American multinational independent investment bank & ﬁnancial services company, headquartered in NYC
+• Supported the Pharma and Healthcare Research team in the preparation of a 110-page long report called ""India: Dawn
+of eHealth"" which focused on the growth of India’s health-tech and pharma industry
+• Analyzed the ﬁnancial statements, key ﬁnancial ratios and annual reports of multiple health-tech ﬁrms in the country
+• Composed fundamental analysis report on multinational Pharma ﬁrms, Sun Pharma and Dr. Reddy’s Laboratory
+• Attended conferences, presided by CEOs of several healthcare ﬁrms, with key focus on changing customer behaviour,
+industry-wide digitization and growth in different sectors impacted due to COVID-19
+Team Lead - Marketing and Strategy | Avacads EduSolutions Pvt. Ltd.
+(Apr’21 - Present)
+Mentored by Prof. Sarin & Dr. Rao, An EdTech startup aiming to provide high-school students internships & social opportunities
+• Successfully managed to raise a fund of INR 2 Lacs and got incubated at IDEAS Program Level 2 Cohort 4 at IIT Bombay
+• Managing a team of 16 to collectively manage sales and marketing, pitched to 10+ NGOs, startups and schools
+• Analysed National Education Policy 2020 and conducted market research reaching out to 500+ potential customers
+TECHNICAL PROJECTS
+IIT Bombay Student Satellite Program
+(Feb’20 - Present)
+A 70-member student team with the vision of making IIT Bombay a center of excellence in space technology
+Sanket | Electrical Subsystem
+The mission aims to develop an indigenous Antenna Deployment System with TRL-8
+• Designed and routed the Auxiliary testing and ﬂight PCBs on EAGLE software to interface with PS4-OP
+, responsible for
+scheduling tasks while performing power, data management and communication on the CubeSat
+• Revised and updated the power budget of the satellite during communication and deployment modes
+• Simulated to ﬁnd apt thickness of Aluminium 6061-T6 sheet required to shield electrical components on SPENVIS after
+studying the types of radiations, its effect on the components & the 6 ﬂight parameters describing satellite orbits
+• Simulated and implemented USART and SPI protocol between two ATmega128 microcontrollers using Proteus
+Trafﬁc Clearance for Ambulances
+(May’20 - Jul’20)
+Institute Technical Summer Project (ITSP) | Institute Technical Council (ITC)
+IIT Bombay
+• Led a team of three in developing an online app service to notify vehicle users of an incoming ambulance
+• Applied Distance Matrix & Roads API on Flutter with Android Studio, updated data parameters real-time on Firebase
+• Collaborated on GitHub and delivered a fully functional application with UI and authentication
+Hands-free Elevator Mechanism and Auto-sanitization
+(Jul’20 - Aug’20)
+Institute Technical Council (ITC)
+IIT Bombay
+• Worked in a team of two to design a mechanism to make the elevator ride contactless as a precaution for the pandemic
+• Implemented the concepts of ﬂuid compression and Pascal’s law to ideate and design a product prototype that uses foot
+pedals to press ﬂoor buttons, further modeled it on Fusion 360 and simulated it on Ansys
+• Designed an auto-sanitization system for the elevator by integrating ultrasonic sensors and programming the Arduino
+Uno microcontroller board and simulated results on Tinkercad
+Akshat Mehta
+Mechanical Engineering
+Indian Institute of Technology, Bombay
+190100011
+B.Tech.
+Gender: Male
+DOB:  19-06-2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+Intermediate
+Matriculation
+IIT Bombay
+HSC
+ICSE
+IIT Bombay
+Shri T P Bhatia College Of Science
+Ryan International School, Malad
+2023
+2019
+2017
+89.54%
+95.40%
+Software development for a Personal Weather Station
+(Oct’20 - Apr’21)
+Guide: Prof. Sridhar Balasubramanian | iSURP | UGAC
+IIT Bombay
+• Developed backend on AWS for storage, handling and tracking of multiple Arduino based Personal Weather Stations
+(PWS) data and integrated with the frontend website deployed on Heroku
+• Communicated the data with the server using the GET/POST API by Node.js
+COURSE PROJECTS
+Finite Element Modeling (FEM) of Rolling Process
+(Mar’21 - May’21)
+Guide: Prof. Ramesh Singh (Department of Mechanical Engineering)
+Course: ME206
+• Studied several research papers on FEM of Rolling process and analysis of the parameters which affect the process
+• Simulated and modelled a four-step sheet rolling process on Abaqus with appropriate boundary conditions
+• Analyzed & reported the stress-strain relation due to the variations in roll diameter, roll speed and work-piece speed
+Comparative Analysis of Face Recognition Techniques
+(Mar’21 - May’21)
+Guide: Prof. Abir De (Department of Computer Science & Engineering)
+Course: CS419
+• Conducted a comparative study of Machine Learning models and techniques for facial recognition on a subset of Yale
+Extended B Dataset, with 2470 grayscale images of 39 subjects under varying lighting conditions
+• Tested different ML models including Logistic Regression & SVM, along with feature extraction using PCA & VGG16
+• Achieved a maximum accuracy of 98%, as compared to the global best of 99.2%
+Modiﬁcations of wheelchair for the elderly
+(Sep’20 - Dec’20)
+Guide: B K Chakravarthy (IDC School of Design)
+Course: DE414
+• Performed user study of the existing wheelchairs and analyzed the need for a self-sufﬁcient wheelchair
+• Designed and built a working rig based on the requirements and feedbacks from the user research
+POSITION OF RESPONSIBILITY
+Subsystem Head | Electrical Subsystem
+(May’21 - Present)
+IIT Bombay Student Satellite Program
+IIT Bombay
+• Recruited 9 students from 100+ applicants evaluating their technical ability, practical approach and teamwork skills
+• Supervised a team of 10 to develop ﬂight codes and circuit boards of satellite
+• Established quality assurance practices in the electrical subsystem to ensure reliable design process
+Department Academic Mentor | Mechanical Department
+(May’21 - Present)
+Department Academic Mentorship Programme (DAMP)
+IIT Bombay
+• Part of a 39-member team selected on the basis of peer reviews, which mentors 170+ students
+• Monitored academic performance of 14 second-year students providing academic guidance and counsel
+• Acting as the First Point of Contact aiding the communication between the faculty and students
+• Arranged and hosted a session on Dual Degree Specialization with 5 speakers and an audience of over 60+ students
+Teaching Assistant | CE102: Engineering Mechanics
+(Mar’21 - June’21)
+Assistant to Prof. Manish Kumar
+IIT Bombay
+• Served a batch of 100+ freshmen, conducted bi-weekly tutorial sessions, special doubt sessions, and proctored quizzes
+• Employed sharp communication skills & conducted timely help sessions that beneﬁt the academically weaker students
+Project Mentor | Summer of Science
+(May’21 - Present)
+Maths and Physics Club
+IIT Bombay
+• Mentored a junior student to familiarize him with the concepts of Economics for a two-month summer project
+• Covered key concepts of Macroeconomics and Microeconomics, reviewed his work and project report
+TECHNICAL SKILLS
+Programming Languages
+: C/C++, Java, Python, DART for Flutter
+Softwares
+: AutoCAD, Fusion 360, SolidWorks, EAGLE, Proteus, MATLAB, SPENVIS, Flutter by Google, Ansys
+EXTRACURRICULARS
+• Completed year-long training in Squash under the National Sports Organization (NSO)
+• Built an efﬁcient model of a 4-wheeled bot, programmed by ATtiny processor and controlled with a mobile app via
+Bluetooth for XLR8 competition, conducted by Electronics and Robotics Club
+• Took professional Tennis coaching lessons for a year and attended Cricket Summer Camp
+• Learnt French language for 4 years under the ICSE school curriculum
+• Attended a plantation campaign by Green Yatra and helped plant over 100 plants
+• Undertook several online courses like Game Theory, Project Management, Mechanics of Materials, Machine Design
+and Introduction to MATLAB on Coursera
+",7
+8,"Pursuing a minor in Computer Science Engineering 
+ 
+•
+Secured All India Rank of 442 out of 2,00,000 candidates in JEE Advanced (2019) [’19] 
+•
+Secured All India Rank of 1974 in JEE-Mains (2019) out of 1.2 
+million candidates 
+[’19]  
+•
+Received AA grade in for good performance in Biology and Engineering Mechanics   [’20] 
+•
+Awarded the prestigious KVPY fellowship by IISc Bangalore, funded by the GOI 
+[’18,’19] 
+ 
+Maintwiz Technologies (SaaS based Industry 4.0 Solution Provider)  
+ 
+ 
+ 
+Software Developer 
+[Nov’19 – Aug’20]  
+•
+Designed and developed a dashboard for a key performance indicator - Overall 
+Equipment Effectiveness [OEE] (Used by manufacturing companies to measure 
+operational efficiencies) 
+•
+Developed an application for Line Balancing, an algorithm used by manufacturing 
+companies to optimise assembly line efficiencies based on customer demand 
+Technical Analyst 
+[May’21 – Jul’21] 
+•
+Worked on machine learning models for Predictive Maintenance, using historical data to 
+predict equipment failure with AWS Machine Learning tools - SageMaker and Lookout For 
+Equipment 
+•
+Automated end-to-end process for Reporting and site creation using AWS Serverless tools 
+- Step Functions and Lambda 
+Naethra Technologies (Custom Application Development Company)  
+ 
+ 
+ 
+Process Designer - Loyalty Points 
+[Nov’19 – Aug’20] 
+•
+Designed process flow charts for the implementation of loyalty points at Rathna Fan 
+House, India's top dealer in air-conditioners and fans 
+Process Designer - CRM and Telephony Integration 
+[May’21 – Jun’21] 
+•
+Designed and implemented a CRM along with telephony integration to track and manage 
+leads for Rathna Fan House 
+Asian Paints (Leading Paint Manufacturing Company) 
+[Dec’20] 
+In-Plant Training at Sriperumbudur plant 
+•
+Worked as part of the Instrumentation team for the installation of a Heat Recovery Unit 
+(HRU)  
+•
+Assisted in the designing of Remote Input Output (RIO) panels for the HRU based on the 
+scheme for the project 
+•
+Understood the end-to-end process and operations of the plant (Manufacturing of Water  
+Based Paints) 
+LIBRARY MANAGEMENT AND BLOGGING APPLICATIONS 
+[Feb’20-May’20] 
+Web Applications 
+SCHOLASTIC ACHIEVEMENTS
+INTERNSHIPS
+TECHNICAL PROJECTS
+Arvind Murali
+Mechanical Engineering
+Indian Institute of Technology Bombay
+190100074
+B.Tech.
+Gender: Male
+DOB:  4/18/2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+Intermediate
+Matriculation
+IIT Bombay
+CBSE
+CBSE
+IIT Bombay
+Maharishi Vidya Mandir
+Maharishi Vidya Mandir
+2023
+2019
+2017
+94.60%
+95.00%
+•
+Designed and developed a web application using JSP
+, Spring Boot Framework and PostgreSQL 
+database to manage the lending of books.
+•
+Designed and developed a blogging application using Bootstrap and Django Framework
+•
+Deployed the web applications on Amazon Web Services (AWS) and Digital Ocean
+PRO BONO CONSULTING FOR A START-UP	
+[Apr’20-May’20]
+Operating Model
+•
+Assisted in the technical feasibility study for a coconut harvesting service startup 
+•
+Developed the operating model (revenue and cost) for the coconut harvesting service 
+startup to analyse the commercial viability of the venture
+•
+Built the P&L statement for the first year of operations and identified new opportunities to 
+increase the customer base
+TRAINEE | UMIC [INNOVATION CELL]	
+[Aug’19-May’20]
+Part Of the Self Driving Car [SeDriCa] Team
+•
+Worked under the Controls subsystem and understood the working of PID, MPC and NMPC 
+controllers
+•
+Part of the Sensors subsystem and understood the working of RADAR and LIDAR
+•
+Learned the basics of Robotic Operating System [ROS]
+XLR8 COMPETITION	
+[Aug’19]
+Electronics and Robotics Club
+•
+Designed and engineered a Bluetooth controlled 4-wheel multi-terrain bot, operated using 
+Differential Mechanism, which completed the competition racetrack
+•
+Built and designed a chassis with appropriate mechanical parameters like ground 
+clearance, RPM and power output of DC motors etc.
+•
+Successfully manoeuvred the bot through a series of hurdles and obstacles, to complete 
+the track
+Programming Languages	
+Java, C++, HTML, Javascript, jQuery
+Frameworks 	
+Spring MVC, Spring Boot, Django
+Other Software	
+Eclipse IDE, Android Studio
+Databases	
+PostgreSQL, MySQL
+Cloud Technologies	
+Amazon Web Services, Digital Ocean
+Simulation and CAD Software	
+SolidWorks, AutoCAD
+•
+Machine Learning: Finished the Machine Learning A-Z: Hands-On Python & R course by the 
+SuperDataScience team
+•
+Web Development : Spring Boot Framework by Chad Darby
+•
+Finance : Completed Finance Bootcamp by FinShiksha 
+•
+Minor Course : Computer Networks, Data Structures And Algorithms, Design and Analysis of 
+Algorithms*
+* to be completed by Spring’21
+•
+Successfully completed a year long Vocal Music course under the NSO programme, affiliated 
+to the MHRD Department of Govt of India
+•
+Part of winning team in Chess in Institute General Championship
+•
+Tamil Nadu Under-11 State Chess Championship 2011 and 2012 Winner
+•
+Played at the Under-11 National Chess Championship and ranked 12th
+•
+Ardent Carnatic music practitioner and have given stage performances as a vocal Carnatic 
+musician at various programs
+•
+Regularly solve Sudoku puzzles
+COURSES UNDERTAKEN
+TECHNICAL SKILLS
+EXTRA CURRICULAR
+",3
+9,"Scholastic Achievements
+• Secured 99.84 percentile in JEE Mains out of over 1.1 million candidates
+(2019)
+• Achieved 98.3 percentile in JEE-Advanced out of more than 0.2 million candidates
+(2019)
+• Scored 410 out of 450 marks in BITSAT examination conducted by BITS, Pilani
+(2019)
+• Qualiﬁed to the Regional Mathematics Olympiad (RMO) conducted by the (HBCSE)
+(2018)
+Internship and Key Projects
+Locust Occurrence Modelling and Prediction
+Summer 2021
+Data Science Associate
+Dtime
+• Worked on an end-to-end machine learning project to model and forecast locust outbreaks in East-African region.
+• Implemented machine learning algorithms to extract and engineer new features and capture the spatial and
+temporal characteristics of the problem, and tackle the heavily skewed nature of the problem, (as high as 1:5k).
+• Implemented Bi-directional ConvLSTM based U-Net model for pixel level classiﬁcation on 67k grid-IDs of 10
+km2 each, projected over spatial images corresponding to 450+ timestamps, with respective segmentation masks.
+• Used a combination of algorithms like SMOTEENN and SMOTETomek, with Balanced Ensemble Classiﬁers
+to reduce the eﬀect of class asymmetry and predict a locust occurrence, minimizing false negatives successfully.
+Spoof-Resistant Face Recognition
+Summer 2020
+Institute Technical Summer Project
+WnCC, IIT Bombay
+• Developed a system to diﬀerentiate between live and digitally created faces from input image and identify them.
+• Implemented OpenCV’s Caﬀe based Single Shot Detector (SSD) framework, to get the region of interest.
+• Built an artiﬁcial neural network incorporating several convolutional layers in combination with others and
+trained it on a self-made live and fake images dataset, for liveness detection feature.
+• Extracted 128-D facial encoding vectors from dlib’s 5-point facial landmark model to train a support vector
+machine and work with the liveness detection model for facial recognition capability.
+Lossless High-Entropy Compression Algorithm
+Summer 2020
+Seasons of Code
+WnCC, IIT Bombay
+• Achieved the task to convert numeric sequences of a ﬁxed length to compressed versions minimizing the complexity of
+their fourier-transform, achieving high entropy data compression.
+• Implemented a system of seq2seq recurrent neural network using Long Short Term Memory (LSTM) units in
+combination with other layers to output compressed form and make transmission and storage more viable.
+• Generated a mapping using the compressed version to recreate original signal for simpler signals accurately.
+Red Plag : Plagiarism Checker
+Autumn 2020
+Prof. Amitabha Sanyal — (Course project)
+IIT Bombay
+• Developed a plagiarism checker to measure pairwise similarity between a collection of text ﬁles.
+• Adopted an algorithm that involved using separate tokenizers for languages C++, Java, Python followed by
+winnowing of vectors from hashed k-grams to compute similarity percentage.
+• Created a web front-end using Angular framework to visualize results in a graphical manner, and Django based
+web-framework for the backend server to maintain the database, and to link and store query results.
+• Added authentication using JSON web-tokens (JWT), to restrict access to authorised individuals only.
+• Added functionality for use with given boilerplate code, while comparing multiple ﬁles, for accuracy.
+Comparison of TCP variants
+Spring 2021
+Prof. Vinay Ribeiro — (Course Project)
+IIT Bombay
+• Simulated a client and server network using Socket in C, to transfer ﬁles using diﬀerent variants of TCP.
+• Recorded network traﬃc using Wireshark and analysed window scaling graphs for TCP Cubic and Reno.
+Ojas Gramopadhye
+Computer Science & Engineering
+Indian Institute of Technology, Bombay
+190050075
+B.Tech.
+Gender: Male
+DOB:  17-06-2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+Intermediate
+Matriculation
+IIT Bombay
+CBSE
+CBSE
+IIT Bombay
+The New Green Field Public Academy
+The Emerald Heights International School
+2023
+2019
+2017
+null
+92.00%
+10
+Quantum Information and Computing
+Summer 2020
+Summer of Science
+MnP Club, IIT Bombay
+• Completed a reading project on mathematical aspects of Quantum Information and Computing.
+• Studied diﬀerences in computational methods in classical and quantum computers.
+• Learned about some basic quantum algorithms and the computational ease oﬀered by them over classical counterparts
+for some tasks known to be computationally complex for classical computers.
+Advanced Data structures
+Autumn 2020
+Prof. Ajit A. Diwan — (Course Project)
+IIT Bombay
+• Quadtree: Implemented Quadtree Data Structure for eﬃcient Image Compression, with operations to set or get
+individual pixels, extract a portion, overlap or intersect two images, or resize the image.
+• Permutation: Implemented Permutation data-type with functionalities like inverse, composition, square-root,
+exponentiation, and logarithm using Extended Chinese Remainder Theorem in linear time complexity.
+• Morphism: Implemented Morphism as a function, and developed algorithms, to compute properties like function
+calls, size of string, and determination of substrings and subsequences for them.
+IITB Proc: Multi-Cycle Processor
+Spring 2021
+Prof. Virendra Singh — (Course Project)
+IIT Bombay
+• Designed a 16-bit computer system with 8 general purpose registers, capable of executing multiple instructions.
+• Implemented an ALU, to carry out Addition and Subtraction operations using 16 bit Kogge Stone Adder.
+• The architecture also allows instruction executions like Jump, BEQ, and multiple Load and Store.
+K-Means Clustering
+Autumn 2020
+Prof. Amitabha Sanyal — (Course Project)
+IIT Bombay
+• Implemented KMeans++ Algorithm using Scipy Python library to perform colour quantization on an image to
+reduce it’s colour palette to a ﬁxed number k and reconstruct image in the new space.
+Positions of Responsibility
+Department Academic Mentorship Program (DAMP) Mentor
+Since May 2021
+Department of CSE, IIT Bombay
+• Appointed to be the Department Academic Mentor, one of 26 candidates selected after extensive peer reviews
+and interviews out of 76 applications, and currently guiding 8 sophomore students.
+Institute Technical Summer Project (ITSP) Mentor
+Summer 2021
+• Guided a team of 5 members for a machine learning project combining a facial and a speech recognition system.
+Technical Skills
+Programming:
+C++, C, Python, Java, Matlab, VHDL, HTML, CSS, SQLite, Bash, Socket, z3
+Development:
+Android Studio, Angular, Django, Git, L
+AT
+EX, Arduino, CSS, JavaScript
+Data Science & ML:
+Pandas, Matplotlib, Sklearn, Imblearn, Pytorch, Tensorﬂow, Keras, Numpy, OpenCV
+Software Tools:
+Git, Jupyter, Quartus, Wireshark, AutoCAD, SolidWorks
+Courses Undertaken
+Computer Science : Discrete Structures, Data Structures and Algorithms (+Lab), Data Analysis and Interpretation,
+Software Systems Lab, Abstractions and Paradigms for Programming (+Lab), Digital Logic and Design (+Lab), Design
+and Analysis of Algorithms, Logic for Computer science, Computer Networks (+Lab)), Computer Architecture (+Lab)*,
+Database and Information Systems (+Lab)*, Operating Systems (+Lab)*, Automata Theory†, Implementation of
+Programming Languages (+Lab)†, Artiﬁcial Intelligence (+Lab)†
+Miscellaneous : Introduction to Electrical and Electronics Circuits, Linear Algebra, Calculus, Basics of Electricity &
+Magnetism, Quantum Physics, Engineering Graphics & Drawing, Physical Chemistry
+*To be completed by Autumn 2021
+†To be completed by Spring 2022
+Extracurricular
+• Attended InterIIT Camp for Aquatics and currently a member of Aquatics Team IITB
+• Competed in All India IPSC Swimming Championship (U-19) and won 2nd prize in an event.
+(2016)
+• Took part in 62nd National School Swimming Championship (U-19) organised by SGFI.
+(2016)
+• Competed in CBSE West Zone Swimming Championship (U-16), held in Ajmer.
+(2015)
+• Competed in 62nd State School Swimming Championship held in Mandsaur, M.P.
+(2016)
+• Competed in M.P. State Triathlon organised under M.P. Triathlon Association.
+(2015)
+• Helped organize various Lectures at Techfest, Asia’s largest science and technology festival.
+(2019-2020)
+• Designed XLR8 remote-controlled bot, to run across an obstacle course, and ﬁnished 2nd.
+(2019-2020)
+Scholastic achievements and extracurricular activities are not verified by the Placement Cell
+",9
+10,"Pursuing a Minor Degree in the department of Computer Science and Engineering with a CPI of 10.0
+Awards and Recognition
+• Awarded with the title of Institute Technical Freshmen Of The Year (1 out of 1100+ students) for
+excellence in technical activities in the institute & signiﬁcant contribution to the tech community of IIT Bombay [2020]
+• Received a letter of recommendation for exemplary performance in Data analysis & interpretation course [2020]
+• Honored with a Special Mention in the field of Social Services by NSS, IIT Bombay for helping the
+underprivileged children explore wonders of science by conducting experiments & explaining related concepts [2019]
+• Felicitated with the Annual Excellence Award at St.Xavier’s School for the Academic Year 2016-2017 [2017]
+• Awarded by the Government of Jharkhand for innovative ideas in the field of Wipe Out Poverty [2016]
+Professional Experience
+EntityVector | Sunnyvale, CA, USA
+[Mar’21-Present]
+Overview
+•
+Building a Digital Investigator to tackle financial crime compliance using machine learning techniques
+Fraud
+Detection
+•
+Conducted exploratory data analysis of large databases comprising of 10K+ companies and 2L+ entries
+•
+Formulated a sequence of algorithms based on advanced mathematical & statistical models as well as
+Time-Series forecasting and Seq2Seq Attention models to detect accounting frauds in US companies
+•
+Used Signal Extraction techniques & implemented LambdaMart to rank companies on high fraud risk
+•
+Fetched news using GoogleNews library & applied Sentiment Analysis achieving an accuracy of 70%
+•
+Scraped entity fundamentals data through API using AWS Sagemaker and stored data in S3 bucket
+Development •
+Developed a user-friendly website of the company from scratch and engaged in product design of the MVP
+•
+Fabricated a dynamic dashboard for deploying the models using StreamLit and NgRok for hosting
+TimeMarks | Jaipur, India | Awarded a LOR for exemplary work
+[Dec’20-May’21]
+Technical
+Supervisor
+•
+Member of the core technical team responsible for development and maintenance of android application
+•
+Providing strong leadership & interdepartmental communication to meet timelines and budgetary goals
+•
+Supervising the developers while managing the design, development, integration and testing of products
+Software
+Developer
+•
+Customized and developed cross-platform app on Flutter and integrated it with the main application
+•
+Revamped the User Interface of the app by writing high quality XML code to convert Figma designs
+•
+Worked on bottlenecks and fixed bugs to ensure high performance and responsiveness of the app
+Key Projects
+Gold Price Prediction using Machine Learning
+[Mar’21-May’21]
+Guide: Prof. Biplab Banerjee |Course Project | Introduction to Machine Learning | Grade: 10/10
+• Leveraged Machine Learning models for predicting the commodity price of gold using the historical price dataset
+• Conducted Exploratory Data Analysis and feature engineering; analysed data using fourier transformation, candle-
+stick patterns to determine correlations & implemented Recursive feature elimination to ﬁnd the best parameters
+• Used a statistical model ARIMA; deep learning forecasting model: LSTM and pre-trained Facebook’s Prophet model
+• Obtained the best result using the LSTM model with root mean squared error of about 1% of the average gold price
+Parallelized Scientiﬁc Computing
+[Mar’21-May’21]
+Guide: Prof. S. Gopalakrishnan |Course Project | High Performance Scientiﬁc Computing | Grade: 10/10
+• Optimized the Monte-Carlo and the Trapezoidal rules of integration using OpenMP to achieve a speedup of 1.6X
+• Compared shared memory (OpenMP) & message passing (MPI) systems by parallelizing Matrix Multiplications (GEM)
+• Contrasted the Serial, OpenMP and CUDA (for GPUs) implementations of path planning - A* and D* Lite algorithms
+• Simulated the algorithms on a supercomputer: PARAM Sanganak and attained a speedup of 212X (Serial-to-CUDA)
+SAFE: Smart Authenticated Fast Exams
+[Aug’20-Dec’20]
+Research and Development project | Prof. Bhaskaran Raman | Computer Science Department | IIT Bombay
+Context of Project : Safe is an android application having 10,000+ downloads that caters to secured assessments,
+proxy-free attendance, and offline quizzes in IIT Bombay
+• Developed algorithms to ensure time synchronization and prevent time-based attacks
+• Extensive involvement in usability testing and detecting logical vulnerabilities of the application
+Payal Choudhary
+Metallurgical Engineering and Materials Science 
+Indian Institute of Technology Bombay
+190110061
+B.Tech.
+Gender: Female
+DOB:  10/26/2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+Intermediate
+Matriculation
+IIT Bombay
+CBSE
+ 
+ICSE
+IIT Bombay
+Ashok Hall Girls’ Higher Secondary 
+School, Kolkata
+St.Xavier’s School, Jharkhand
+2023
+2019
+2017
+93.40%
+95.60%
+Picture Editing App
+[Jun’20-Aug’20]
+Internship at ABSTech | Rajasthan, India
+• Conceptualized and developed an android application that enables users to edit pictures from camera and gallery
+• Made the code robust by incorporating features such as Dagger(Dependency Injection) and Butterknife(View Injection)
+• Integrated third-party libraries like Dexter and ImageFilters and tested application using the JUnit framework
+• Received a Letter of Appreciation from the Military Intelligence for significant contributions to IT solutions
+InFi: Interest Finder
+[May’20-July’20]
+Institute Technical Summer Project | IIT Bombay
+• Conceptualized an android application aimed at connecting people having similar interests, hobbies and tastes
+• Deployed the backend of the app in Firebase, frontend in Android(Java) and XML, used Google API for location
+• Implemented Collaborative Filtering to suggest people based on shared interests, proximity, and in-app activity
+• Incorporated features such as Paging and ViewModel thus resulting in a +10% increase of the overall efficiency
+Algorithmic Trading
+[July’21-Present]
+FinSearch | Finance Club | IIT Bombay
+• Studied types of market and basics of trading systems like Delta Hedging, Momentum Portfolios and Calendar Spreads
+• Analysed a statistical arbitrage strategy using ARMA and backtested the Cointegration approach to optimize alphas
+Other Projects
+• HappieFlo - Built an android app for StarHacks hackathon aimed at relieving mental stress during menstruation [2021]
+• CocoGrato - Designed a 3D CAD prototype of a semi-automatic coconut scraper using Solidworks & Adams;
+conducted FMEA & prepared sales pitch highlighting market requirements, existing competition and cost analysis[2021]
+• FaceCount - Devised a model to detect any misconduct by counting no. of faces in real-time by using YOLOv3 [2021]
+• Summarizer - Implemented a pre-trained T5 - Transformer for abstractive summarization of school textbooks[2021]
+• ThermoPy -
+Programmed finite-difference schemes in python to solve partial differential equations involved
+in modeling a transient heat conduction problem to visualise time-evolution of surface temperature of the system[2021]
+• Noter - Developed a cross-platform note-keeping app using Flutter as frontend & SQFLite database in backend[2020]
+• XLR8 - Engineered and built a bluetooth controlled (HC-05) obstacle manoeuvring bot with a differential
+mechanism for turning; used AT-TINY micro-controller, IC7805 as voltage regulator & L293D as motor driver[2019]
+Positions of Responsibility
+Convener | Web And Coding Club
+[Mar’20-May’21]
+Selected out of 100+ applicants to be part of a team representing the interests of 5000+ students
+• Coordinated one of the largest coding clubs in India aimed at promoting and diversifying coding culture in the institute
+• Conducted workshop on Web Development & Hosting and organized hackathon indulging about 100+ participants
+• Volunteered to make detailed resources on Probabilistic Algorithms for Code in Quarantine and Algos-Simplified
+• Contributed towards maintaining the WnCC WIKI by writing articles on Android Studio, SQL, Web Hosting
+• Mentored and handled logistics of 300+ students in building a Personal Website and developing a Food Delivery App
+• Prepared weekly tutorials and assignments on topics like Git, HTML, CSS, Bootstrap, JavaScript, and Django
+Mentor & Team Leader | Seasons of Code
+[Mar’21-July’21]
+• Guiding a team of 8 sophomores in building a mobile app: Social@IIT which aims to connect students from all IITs
+• Leading a team in building BriefKing: A Video-to-Text Summarizer to brief lectures/webinars/meetings from videos/audios
+• Involved in research and implementation of Speech-to-Text models like Wav2Vec2.0 and abstractive summarization
+techniques like pretrained T5 with transfer learning and cloud deployment of the models using streamlit and heroku
+• Responsible for the overall maintenance of the repositories and actively managing different sub-systems of the project
+Teaching Assistant | Computer Programming and Utilization
+[Jan’21-May’21]
+• Among the 5 students aiding the course instructor in invigilation and fair conduction of examinations and evaluations
+• Conducted quizzes, prepared assignments for 100+ students and was responsible for clearing conceptual doubts and queries
+Technical Skills
+Languages
+C++ | C | JAVA | Python | R | MATLAB | Android | Dart | JavaScript | SQL
+Softwares
+Git | Android Studio | AWS | ArduinoIDE | AutoCAD | SolidWorks | Adams | RStudio
+Frameworks/Libraries
+Flutter | Seaborn | NumPy | Matlplotlib | Scikit-Learn | OpenCV | Selenium | Tensorflow
+Extra Curricular Activities
+• Led a 10 member team, ideated how to blacklist vehicles that overstep the allowed time inside campus as a part of
+Think in the Box General Championship organized by the Electronics and Robotics Club, IIT Bombay [2020]
+• Bagged 7th position out of 15k+ participants in Virtual Stock Market competition by Entrepreneurship-Cell,IITB [2020]
+• Awarded Certificate of Merit for successful completion of L
+AT
+EX BootCamp under Learners’ Space by UGAC, IITB [2020]
+• Coded for a Surface-Following drone in the Pluto-X Hackathon, conducted by the Aeromodelling Club, IITB [2019]
+•
+Stood 12th among 1100+ participants in Sarcasm a two-day online cryptic hunt competition by SARC, IITB [2019]
+• Ranked 7th in Entrepreneurship Buzz competition; pitched a start-up business model for given problem statement [2019]
+• Volunteered for Paathshaala, a social initiative by Abhyuday, IITB; interacted with needy children at Dreamz Home[2019]
+• Organized socio-campaigns like clothing drive and sunday lectures for the slums and unprivileged children [2017]
+",4
+11,"Pursuing a Minor Degree in AI and Data Science at Centre for Machine Intelligence and Data Science
+Scholastic Achievements
+• Recipient of INSPIRE Scholarship awarded by Dept. of Science and Technology, Govt. of India
+(2019)
+• Secured District Rank 1 in Maharashtra Talent Search Examination (MTSE)
+(2017)
+• Awarded Maharashtra State Government Scholarship for Secondary school education
+(2014)
+Professional Experience
+Vedantu | Data Science Intern
+(May 2021 - Jul 2021)
+India’s leading Online tutoring company
+• Implemented a Voice Modulation System incorporating pitch, stress, jitter, shimmer, harmonic to noise ratios
+• Designed an index for raw voice inputs used for quantifying the engagement of a teacher in a session
+• Created a system to check background lights of the session, teachers’ posture and distance from the camera
+Machine Learning Studies | 3-D Computer Vision Intern
+(Dec 2020 - Jan 2021)
+A Deep learning and Computer vision venture focusing on 3D face recreation
+• Created PCA models for applying dimensionality reduction on shape and texture data of 3D faces models
+• Implemented a deep learning based model to convert images of faces into their hashed vectors in latent space
+Key Projects
+SeDriCa, Innovation Cell, IIT Bombay | Sr. Computer Vision Engineer (Sep 2020 - Present)
+One of the 11 ﬁnalists among 259 teams in Mahindra RISE Driverless Car Challenge
+• Working in a team of 22 to develop India’s ﬁrst Level 5 self driving car for Indian road conditions
+• Implemented VPS Net for vacant marked parking spot detection and ﬁnalized the decision making procedure
+• Created a procedure for detection of unmarked parking spots using Inverse perspective mapping and Linknet
+• Estimating velocity of surrounding cars by tracking them, using their depths and optical ﬂow as input
+Bosch Traﬃc Sign Recognition Challenge | Inter IIT Tech Meet 9.0
+(Mar 2021 - Apr 2021)
+Demonstrated the project live at the Technical Meet and won Bronze medal among 23 IITs
+• Worked in a team of 10 to create a platform employing intuitive and code-free training of Deep Neural networks
+• Implemented a system to provide visualisations of t-SNE, Grad-CAM and LIME of intermediate layers
+• Created a suggestions providing interface to improve the model based on loss, f1-score and confusion matrix
+• Integrated system for 50+ traﬃc signs which consisted of extreme data imbalance and got an accuracy of 98 %
+Future Frames Prediction | Research Project
+(Jan 2021 - May 2021)
+Prof. Amit Sethi, Department of Electrical Engineering, IIT Bombay
+• Created a uniﬁed GAN model for predicting accurate and temporally consistent future frames over time
+• Implemented a generator that can predict both future and past frames using the retrospective cycle constraints
+• Used Deformable convolutions to learn geometric transformations and Conv-LSTMs for predicting frames
+• Employed two discriminators to identify fake frames and fake sequences to get a PSNR value of 29.88
+Source code Plagiarism detection | Research Project
+(May 2021 - Present)
+Prof. Prabhu Ramachandran, C-MInDS, IIT Bombay
+• Creating a model to incorporate writing pattern and abstract syntax grammar to detect plagiarism in code
+• Extracting features for writing patterns using BERT encoder and a GRU based network for abstract syntax
+• Generating a dataset for plagiarised code and training the model as a Siamese network with L1 distance loss
+Ghugarkar Omkar Uttam
+Chemical Engineering
+Indian Institute of Technology Bombay
+190020044
+B.Tech.
+Gender: Male
+DOB:  07-08-2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+Intermediate
+Matriculation
+IIT Bombay
+HSC
+SSC
+IIT Bombay
+Bhartiya Jain Sanghatna
+Priyadarshani High School
+2023
+2019
+2017
+85.69%
+92.20%
+Face Recognition with Liveliness Detection | COVID - 19 Project
+(Jul 2020 - Aug 2020)
+Tinkers Laboratory, IIT Bombay
+• Created a face recognition system which detects facial region of image using Haar Cascade classiﬁers
+• Used a transfer learning model to generate embedding and recognize the face using the SVM algorithm
+• Implemented a model using 3D Convolution layers to check the authenticity of the person’s face
+• Integrated system for 10 users having an accuracy of 96% on face recognition and 90% on liveliness detection
+S.A.S.H.A - Smart Artiﬁcial System with Home Automation
+(Feb 2020 - Jul 2020)
+Institute Technical Summer Project, IIT Bombay
+• Led a team of 4 to create a multi-feature, security-enabled Chatbot that controls electric appliances
+• Implemented features like general conversation using Natural Language Processing, news, weather report and jokes
+• Programmed the code for a chatbot in python using multiple libraries, deployed on Telegram platform
+• Created a system to allow user to log the commands into a ﬁle and created a home setup generator for integration
+• Created a user-interactive website to facilitate house appliance modiﬁcation and live tracking
+• Employed environment-friendly and energy-saving features like Green House mode and Night mode
+Neural Super Sampling
+(Aug 2020 - Nov 2020)
+Course Project: Machine Learning for Remote Sensing - II | Guide: Prof. Biplab Banerjee, C-Minds
+• Implemented the ECCV 2018 paper ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
+• Used the Residual-in-Residual Dense Block (RRDB) as the basic network building unit of the architecture
+• Created relativistic Generative Adversarial Network(GAN) to let the discriminator predict relative realness
+• Incorporated perceptual loss function to make the generated images more appealing to eyes
+Comparative study of Image compression Techniques
+(Jan 2021 - May 2021)
+Course Project: Introduction to Machine Learning | Guide: Prof. Biplab Banerjee, C-Minds
+• Implemented K-Means algorithms, PCA technique and high-ﬁdelity-generative-compression deep learning model
+• Used 60 colour points for K-means and 150 components for PCA to get a PSNR values of 20 and 24, respectively
+• Used a GAN model with generator as an auto-encoder model with perceptual loss to get a PSNR value of 30
+Parallelizing A* and D* Lite using OpenMP and CUDA
+(Jan 2021 - May 2021)
+Course Project: High Performance Scientiﬁc Computing | Guide: Prof. Shivasubramanian Gopalakrishnan
+• Implemented path planning algorithms and reduced their time complexity using OpenMP and CUDA
+• Used 8 parallel threads to run OpenMP code and used thread synchronization technique with shared memory
+• Reduced the time taken to run the program by around 5 times and 20 times using OpenMP and CUDA
+Position of Responsibility
+Academic Mentor
+(Jun 2021 - Present)
+Department Academic Mentorship Program (DAMP)
+• Part of a 32 members team selected out of 80+ applicants after extensive interviews and peer reviews
+• Mentoring six sophomores from the Department of Chemical Engineering on a one-to-one basis on various aspects
+of their life including their academic and extra-curricular pursuits in the institute
+Technical Skills
+• Programming:
+C++, Python, MATLAB, HTML, CSS, JavaScript, SQLite, Java, R, Julia
+• Software: AutoCad, SolidWorks, Arduino IDE, Git, OpenFoam, L
+AT
+EX
+• Frameworks: Bootstrap, TensorFlow, PyTorch, Keras, Robot Operating System (ROS), Gazebo, Django
+Extracurricular Activities
+Sports
+• Completed a year-long training in Lawn Tennis under National Sports Organization (NSO)
+(2019 - 2020)
+• Completed professional training to gain Red Belt ﬁrst White Stripe Rank in Tae-kwon-Do
+(2010 - 2015)
+Miscellaneous
+• Investing actively in stock listed at BSE and NSE and reading literature to gain more insight for the same (Present)
+• Pursuing a ﬁnance project in Commodities and Currencies under Finsearch program
+(Present)
+• Mentored a group of ten freshers to implement Super Sampling under Summer of Code, WnCC
+(2021)
+• Implemented Q-Learning Algorithm to learn an autonomous bot to ﬁnd the shortest path in a given Maze (2020)
+• Participated in the Remote Controlled Plane competition organised by Institute Technical Council
+and worked together in a team of 4 built a trainer plane robust to damages successfully from scratch
+(2019)
+",12
+12,"Pursuing a Minor Degree in the Department of Computer Science and Engineering
+Scholastic Achievements
+• Currently ranked 1st among 120 students in the Civil Engineering Department Batch of 2023
+(’20 - Present)
+• Received the OPJEMS scholarship by the Jindal Group after going through multiple tests and interviews
+(’20)
+Professional Experience
+Data Science Associate | DTime
+(May’21 - Jul’21)
+A machine learning consultancy firm trying to harnesses data to support the sustainability transition
+• Researched about the energy trading system in the United Kingdom to get the domain knowledge of the problem
+• Performed exploratory data analysis and feature engineering on the dataset to extract useful information for training
+• Predicted maximum energy prices using an attention based LSTM model while decreasing the MAE loss from 16 to 6
+• Conceptualised and built an online learning approach to predict the acceptance of offers, achieving F1-score of 0.61
+Machine Learning Intern | Lending Katalyst
+(Jun’21 - Jul’21)
+A startup aimed at revolutionising legal processes using AI
+• Delivered a pipeline to convert documents from kannada to english using Pytesseract and Google Translate API
+• Generated embeddings of legal documents using a BERT based encoder and trained an LSTM classifier to predict if
+the properties are clear for any legal transactions depending on history of the property with an accuracy of 85%
+• Deployed the model on heroku using Flask, to be used both, as an API as well as with a GUI
+Data Science Intern | The Sparks Foundation
+(Oct’20 - Nov’20)
+• Designed a stacked LSTM model for future stock price prediction based on numerical analysis of historical prices
+• Incorporated sentimental analysis of news headlines to get an f1-score of 0.81 while predicting movement of prices
+• Performed a predictive analysis on student’s marks depending on the historical marks and hours of study put in
+Technical Projects
+Senior Perception Engineer | SeDriCa, Unmesh Mashruwala Innovation Cell
+(Sept’19 - Present)
+One of 11 finalists among 259 teams in Mahindra RISE Driverless Car Challenge | Awarded a Mahindra E2O
+• Working in a team of 22 students to develop India’s first Level 5 self driving car, customized for the Indian roads
+• Led the Autonomous Parking Subsystem and worked towards creating an end-to-end pipeline using techniques such
+as Inverse Perspective Mapping, 3D point cloud segmentation and various other Deep learning frameworks
+• Implemented Kmeans clustering and plane fit algorithm on 3D LIDAR Point cloud for ground segmentation
+• Working on the decision making backbone which includes obeying traffic rules, environment aware actions etc
+• Transformed the 3D point cloud to a 2D occupancy grid in ROS for obstacle tracking, lane merging and reverse driving
+• Mentored a team of 5 students to build an autonomous maze-solver bot with obstacle detection and avoidance
+Source code Plagiarism detection | Research Project
+(May’21 - Present)
+Project Guide: Prof. Prabhu Ramachandran, C-MInDS, IIT Bombay
+• Building a model to incorporate the writing pattern and the execution flow to detect plagiarism in codes and text
+• Extracting features from writing pattern using a BERT based encoder and abstract syntax tree for syntactical grammar
+• Ideating on creating a user-interactive GUI for hosting the created model and training the model as a Siamese network
+Multi-Task Self Supervised Visual Learning | Research Project
+(May’21 - Present)
+Project Guide: Prof. Amit Sethi, Department of Electrical Engineering, IIT Bombay
+• Investigating previous research in the field and trying to know the different approaches used for the same
+• Built a multi-head network with a ResNet-50 backbone and trained it using self supervised contrastive learning
+• Working on creating a lane segmentation model by fine tuning the multi head network with a frozen backbone
+Future Frames Prediction | Research Project
+(Jan’21 - May’21)
+Project Guide: Prof. Amit Sethi, Department of Electrical Engineering, IIT Bombay
+• Created a unified GAN model for predicting accurate and temporally consistent future frames over time which consist
+of single generator that can predict both future and past frames using the retrospective cycle constraints
+• Used Deformable convolutions to learn geometric transformations and Conv-LSTMs for predicting frames
+• Employed two discriminators to identify fake frames and fake sequences and got a PSNR value of 29.88
+Bhuvan Aggarwal
+Civil Engineering
+Indian Institute of Technology Bombay
+190040026
+B.Tech.
+Gender: Male
+DOB:  25-09-2001
+Examination
+University
+Institute
+Year
+CPI / %
+Graduation
+Intermediate
+Matriculation
+IIT Bombay
+CBSE
+CBSE
+IIT Bombay
+Bhavan Vidyalaya, Chandigarh
+Bhavan Vidyalaya, Chandigarh
+2023
+2019
+2017
+96.20%
+10
+Grid 2.0 - Robotics Challenge | Flipkart
+(Jul’20 - Dec’20)
+Ranked in the Top 3 among the 1000+ participating teams and qualified for the national round
+• Worked in a team of 5 students to build an autonomous drone satisfying the needs of the competition
+• Applied the Artificial Potential Field method for real-time dynamic path planning of the drone running at 30 fps
+• Included 3D obstacle detection and avoidance along with a custom YOLO-v3 based frame detection algorithm
+S.A.S.H.A - Smart Artificial System for Home Automation
+(Mar’20 - Jul’20)
+Institute Technical Summer Project | Institute Technical Council | IIT Bombay
+• Developed a security-enabled, Python-based Chatbot capable of controlling the daily-use electrical appliances along
+with Natural language processing based conversation with the user, and some other voice assistant features
+• Deployed the bot on Telegram and created a user interactive website to assist the user with basic commands
+• Scaled the bot to add other energy-saving features such as the Green House Mode and the Night Mode
+Mask Detector | Covid Projects | Tinkerers’ Laboratory, IIT Bombay
+(Jun’20 - Jul ’20)
+• Created an integrated model to detect if a person is wearing a mask using the MTCNN model to detect the faces
+• Trained a Transfer Learning Model with base model as MobileNetV2 on a custom dataset for detection of mask
+Plastic Shredder | Sustainable Social Development | NSS, IIT Bombay
+(Oct’19 - Mar’20)
+• Coordinated in a team of 5 to create a plastic shredder to be deployed in the institute to ease the recycling process
+• Ideated on the various specifications of the machine and created a complete 3D CAD model of the same
+Accident Avoidance System for vehicles
+(Oct’17 - Feb’18)
+• Presented the project at various competitions and won the CBSE National Science Exhibition among others
+• Designed a fully functional accident avoidance system for vehicles using various micro-controllers and sensors
+• Incorporated eye blink rate monitoring to measure the Drowsiness of the driver and an alert system for the same
+Summer of Machine Learning | Self-Projects
+(May’21 - Jul’21)
+• Built a face recognition with emotion detection and emotion-based music recommendation system
+• Created a content-based spotify recommendation system using user’s historical and current spotify streaming data
+• Implemented a seq2seq abstractive text summarizer using bidirectional LSTM architecture with attention
+• Developed an integrated model for automatic captioning of images using ResNet50 for image feature extraction
+Positions of Responsibility
+Manager | Team Sedrica, Unmesh Mashruwala Innovation Cell
+(May’21 - Present)
+Innovation Cell aims to facilitate technical start-ups and foster an atmosphere of innovation and entrepreneurship
+• Managing a team of 6 responsible for developing the team’s website, and improving the social media outreach
+• Supervising the three phase team recruitment process including a technical assignment followed by interviews
+• Organised the Trailblazher innovation challenge in collaboration with The Innovation Story
+D-AMP Mentor | Department of Civil Engineering
+(May’21 - Present)
+• Mentoring 6 sophomores to help them cope with academic difficulties and help in their holistic development
+• Worked towards revamping the D-AMP blog and adding the academic resources for the reference of the students
+Convenor | Tinkerers’ Laboratory, IIT Bombay
+(May’20 - May’21)
+The alumni-funded ‘makerspace’ for innovators to encourage prototyping and execution
+• Worked in a team of 7 to manage the lab, cultivating the tech culture in institute and approve funding for projects
+• Collaborated with the Stanford Byers Center for Biodesign, to organize a long-term Design Thinking course
+• Executed 30+ projects focused towards containment of the COVID-19 virus for deployment within the institute
+Manager of Virtual Gathering | E-Convocation 2020, IIT Bombay
+(Jun’20 - Aug’20)
+The first-ever Virtual Convocation in India, with 10k+ hits in 6hrs
+• Praised by the Hon’ble Prime Minister and was featured on 30+ media channels including Times of India and CNN
+• Created the virtual model of the institute using a third party software to bring in the social aspect of convocation
+Key Technical Skills
+• Programming languages: Python, C++, HTML, CSS, Javascript, Jquery, MATLAB, SQL, Bash, PHP
+• Softwares: Solidworks, AutoCAD, Adobe Photoshop, Premiere Pro, After Effects, Arduino IDE, L
+A
+T
+EX, GIT
+• Frameworks: Django, Bootstrap, Materialize, Tensorflow, PyTorch, Keras, Robot Operating System(ROS), ROS2
+Relevant Courses
+• Machine Learning: Machine Learning*, Deep Learning Specialization*, GAN Specialisation*, MLOps Courses*
+• Other: Engineering Graphics and Drawing, Computer Programming and Utilization, Python Specialisation*
+(*:Online Courses)
+Extra-Curricular Activities
+• Awarded a Special Mention for contribution in sustainable social development under NSS, IIT Bombay
+• Received the Special Mention in Hostel-9 Technical Awards for contribution in cultivating the tech culture in hostel
+• Pursuing a finance project in Commodities and Currencies under Finsearch program organised by the Finance Club
+• Mentored 10 students to complete a super sampling project under the Seasons of Code organised by the WNCC club
+• Designed and fabricated a bluetooth controlled four-wheeled bot with on-board power supply in XLR8
+",13
